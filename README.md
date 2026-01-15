@@ -2,7 +2,7 @@
 
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12064410%2Fe1c439d356d34481d8343cfcc5f32bb2%2Funemployment%20flag.png?generation=1677706474308274&alt=media)
 
-# DAY ~17,000 (January 1976 to November 2025)
+# DAY ~18,000 (January 1976 to November 2025)
 This is a dataset that tracks **relevant population statistics** and **employment rates** per US state since 1976. 
 
 All data are official figures from the Bureau of Labor Statistics that have been compiled and structured by myself. Besides the 50 US states, the unemployment data of *three other areas* are also being tracked in order to increase the analytical potential of the dataset: the **District of Columbia**, the **Los Angeles-Long Beach-Glendale metropolitan division**, and **New York City**.
